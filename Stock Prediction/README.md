@@ -1,0 +1,1 @@
+I used a random forest regressor model to try to predict the growth in a stock's price based on their 10-K financial statements and they historical price data. The predictions were not very accurate, but it was an interesting exploration into this field.
